@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vishalkumar150/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalkumar150/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishalkumar150/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalkumar150/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vishalkumar150/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vishalkumar150/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -36,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vishalkumar150/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vishalkumar150/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
